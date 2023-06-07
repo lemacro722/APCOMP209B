@@ -1,0 +1,4 @@
+# APCOMP209B
+Capstone Project
+More than 700,000 Americans are currently living with brain cancer, and unfortunately, around 19,000 of them will die this year. Early and accurate diagnosis is crucial for effective treatment and optimal patient outcomes. However, the traditional manual classification of brain tumors from fMRI data is a time-consuming and subjective process that heavily relies on the expertise of radiologists.
+In this project entitled "Automated Classification of Brain Tumors from fMRI Data Using Convolutional Neural Networks," we leverage the power of AI to automate the process using transfer learning techniques of pre-trained state-of-the-art (SOTA) models. One interesting innovation is the combination of CNN layers and XGBoost for improved accuracy with the "ConvXGboost" model.
